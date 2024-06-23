@@ -5120,7 +5120,7 @@ Contributions of all types are more than welcome, if you are interested in contr
 
 #### 📝 License
 
-Copyright © 2023 [LobeHub][profile-url]. <br />
+Copyright © 2023 [aipmHub][profile-url]. <br />
 This project is [MIT](./LICENSE) licensed.
 
 <!-- LINK GROUP -->
@@ -5135,7 +5135,7 @@ This project is [MIT](./LICENSE) licensed.
 [github-codespace-link]: https://codespaces.new/aipmhub/aipm-chat-agents
 [github-codespace-shield]: https://github.com/codespaces/badge.svg
 [github-contrib-link]: https://github.com/aipmhub/aipm-chat-agents/graphs/contributors
-[github-contrib-shield]: https://contrib.rocks/image?repo=lobehub%2Faipm-chat-agents
+[github-contrib-shield]: https://contrib.rocks/image?repo=aipmhub%2Faipm-chat-agents
 [github-contributors-link]: https://github.com/aipmhub/aipm-chat-agents/graphs/contributors
 [github-contributors-shield]: https://img.shields.io/github/contributors/aipmhub/aipm-chat-agents?color=c4f042&labelColor=black&style=flat-square
 [github-forks-link]: https://github.com/aipmhub/aipm-chat-agents/network/members
@@ -5147,7 +5147,7 @@ This project is [MIT](./LICENSE) licensed.
 [pr-welcome-shield]: https://img.shields.io/badge/🤖/🏪_submit_agent-%E2%86%92-c4f042?labelColor=black&style=for-the-badge
 [profile-url]: https://github.com/aipmhub
 [submit]: https://github.com/aipmhub/aipm-chat-agents/issues/new/choose
-[vercel-deploy-link]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flobehub%2Faipm-chat-agents&project-name=aipm-chat-agents&repository-name=aipm-chat-agents
+[vercel-deploy-link]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Faipmhub%2Faipm-chat-agents&project-name=aipm-chat-agents&repository-name=aipm-chat-agents
 [vercel-deploy-shield]: https://vercel.com/button
-[website-shield]: https://img.shields.io/website?down_message=offline&label=chat-agents.lobehub.com&up_message=online&url=https%3A%2F%2Fchat-agents.lobehub.com&labelColor=black&logo=vercel&style=flat-square
-[website-url]: https://chat-agents.lobehub.com
+[website-shield]: https://img.shields.io/website?down_message=offline&label=chat-agents.theforage.cn&up_message=online&url=https%3A%2F%2Fchat-agents.theforage.cn&labelColor=black&logo=vercel&style=flat-square
+[website-url]: https://chat-agents.theforage.cn

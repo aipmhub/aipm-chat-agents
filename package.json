@@ -9,7 +9,7 @@
     "url": "https://github.com/aipmhub/aipm-chat-agents.git"
   },
   "license": "MIT",
-  "author": "LobeHub <i@lobehub.com>",
+  "author": "aipmHub <nextprofessionalpower@gmail.com>",
   "type": "module",
   "scripts": {
     "awesome": "bun scripts/build.ts && bun scripts/updateAwesome.ts",
