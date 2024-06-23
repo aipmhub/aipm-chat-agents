@@ -16,7 +16,7 @@ const ERROR_LABEL = '🚨 Auto Check Fail';
 
 class AutoSubmit {
   owner = 'lobehub';
-  repo = 'lobe-chat-agents';
+  repo = 'aipm-chat-agents';
   issueNumber = Number(process.env.ISSUE_NUMBER);
   private octokit: Octokit;
 

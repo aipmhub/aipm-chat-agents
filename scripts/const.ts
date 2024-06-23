@@ -30,7 +30,7 @@ export const metaPath = resolve(root, 'meta.json');
 export const meta = readJSONSync(metaPath);
 
 export const host = 'https://chat-agents.lobehub.com';
-export const githubHomepage = 'https://github.com/lobehub/lobe-chat-agents';
+export const githubHomepage = 'https://github.com/aipmhub/aipm-chat-agents';
 
 export const readmeSplit = '<!-- AWESOME PROMPTS -->';
 
